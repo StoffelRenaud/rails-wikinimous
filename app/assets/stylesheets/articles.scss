@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 a {
+  color: #BDB4BF;
+  border-left: 10px;
+}
+
+h2 a:hover{
+  color: #2B193D;
+  transition: 1s;
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container {
+  text-align: center;
+}
